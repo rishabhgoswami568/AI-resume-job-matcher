@@ -1,0 +1,5 @@
+Junior Data Analyst
+
+Required skills: Python, SQL, Excel, Power BI, statistics, data analysis, data visualization.
+Preferred: pandas, MySQL, Git, communication skills.
+Responsibilities include cleaning datasets, analyzing trends, building dashboards, and communicating insights.

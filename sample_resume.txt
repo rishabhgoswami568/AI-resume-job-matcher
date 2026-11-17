@@ -1,0 +1,5 @@
+Sample Candidate Resume
+
+Skills: Python, SQL, pandas, Excel, Power BI, statistics, MySQL, Git.
+Projects: Sales analysis dashboard, data cleaning pipeline, and visualization of monthly trends.
+Experience: Worked with structured datasets and communicated findings in a team project.
